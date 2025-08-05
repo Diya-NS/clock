@@ -8,4 +8,6 @@ The feature I enjoyed building the most was the real-time clock update. Watching
 What I Would Add Next:
 The current date below the time.
 improve style
-![code screenshot](code.jpeg)
+![code screenshot](code.png)
+[Watch the demo](demo.mp4)
+
